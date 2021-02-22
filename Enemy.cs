@@ -9,7 +9,7 @@ namespace Gerhard_Kruger_19342313_GADE_Resubmission
     
     [System.Serializable] //For Save/Load feature
     
-     abstract class Enemy : Character
+     abstract class Enemy : Character //Had fun coding the Enemy class
     {
         protected Random select = new Random();
         public Enemy(int X, int Y, int Damage, int HP, int MaxHP, string CharacterSymbol) : base (X, Y, HP, MaxHP,Damage, CharacterSymbol)
