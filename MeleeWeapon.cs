@@ -9,7 +9,7 @@ namespace Gerhard_Kruger_19342313_GADE_Resubmission
     [System.Serializable()]
     class MeleeWeapon : Weapon
     {
-        public enum MeleeWeapons
+        public enum MeleeWeapons // enum generated for Melee weapon types
         {
             Dagger,
             Longsword,
