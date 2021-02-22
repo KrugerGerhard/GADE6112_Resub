@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Gerhard_Kruger_19342313_GADE_Resubmission
+namespace Gerhard_Kruger_19342313_GADE_Resubmission // I was unable to impliment the Shop in Game
 {
     [System.Serializable()]
     class Shop
